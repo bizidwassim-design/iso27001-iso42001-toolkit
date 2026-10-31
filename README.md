@@ -1,6 +1,6 @@
 # ISO 27001 & ISO 42001 Toolkit
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![CI](https://github.com/bizidwassim-design/iso27001-iso42001-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/iso27001-iso42001-toolkit/actions/workflows/ci.yml) [![No macros](https://img.shields.io/badge/office%20files-no%20macros-success)](SECURITY.md) [![Fictional data](https://img.shields.io/badge/sample%20data-fictional-informational)](SECURITY.md)
 
 A free, open-source starter kit to build an **information security management system (ISO/IEC 27001:2022)** and
 extend it into an **AI management system (ISO/IEC 42001:2023)** without buying a 400-document "toolkit":
