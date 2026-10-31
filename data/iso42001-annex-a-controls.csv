@@ -1,0 +1,39 @@
+domain,control_id,control_title
+Policies,A.2.2,AI policy
+Policies,A.2.3,Alignment with other organisational policies
+Policies,A.2.4,Review of the AI policy
+Internal organisation,A.3.2,AI roles and responsibilities
+Internal organisation,A.3.3,Reporting of concerns
+Resources,A.4.2,Resource documentation
+Resources,A.4.3,Data resources
+Resources,A.4.4,Tooling resources
+Resources,A.4.5,System and computing resources
+Resources,A.4.6,Human resources
+Impact assessment,A.5.2,AI system impact assessment process
+Impact assessment,A.5.3,Documentation of AI system impact assessments
+Impact assessment,A.5.4,Assessing AI system impact on individuals or groups of individuals
+Impact assessment,A.5.5,Assessing societal impacts of AI systems
+AI system life cycle,A.6.1.2,Objectives for responsible development of AI system
+AI system life cycle,A.6.1.3,Processes for responsible design and development of AI systems
+AI system life cycle,A.6.2.2,AI system requirements and specification
+AI system life cycle,A.6.2.3,Documentation of AI system design and development
+AI system life cycle,A.6.2.4,AI system verification and validation
+AI system life cycle,A.6.2.5,AI system deployment
+AI system life cycle,A.6.2.6,AI system operation and monitoring
+AI system life cycle,A.6.2.7,AI system technical documentation
+AI system life cycle,A.6.2.8,AI system recording of event logs
+Data for AI systems,A.7.2,Data for development and enhancement of AI system
+Data for AI systems,A.7.3,Acquisition of data
+Data for AI systems,A.7.4,Quality of data for AI systems
+Data for AI systems,A.7.5,Data provenance
+Data for AI systems,A.7.6,Data preparation
+Information for interested parties,A.8.2,System documentation and information for users
+Information for interested parties,A.8.3,External reporting
+Information for interested parties,A.8.4,Communication of incidents
+Information for interested parties,A.8.5,Information for interested parties
+Use of AI systems,A.9.2,Processes for responsible use of AI systems
+Use of AI systems,A.9.3,Objectives for responsible use of AI system
+Use of AI systems,A.9.4,Intended use of the AI system
+Third-party and customer relationships,A.10.2,Allocating responsibilities
+Third-party and customer relationships,A.10.3,Suppliers
+Third-party and customer relationships,A.10.4,Customers

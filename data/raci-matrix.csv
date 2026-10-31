@@ -1,0 +1,21 @@
+activity,clause,Top management,CISO / ISMS lead,AI governance lead,IT operations,Data & AI teams,HR,Legal & compliance,Internal audit
+Define ISMS / AIMS scope and context,ISO 27001 §4 / ISO 42001 §4,A,R,R,C,C,I,C,I
+Approve information security and AI policies,ISO 27001 §5.2 / ISO 42001 §5.2,A,R,R,I,I,I,C,I
+Assign roles and responsibilities,ISO 27001 §5.3 / ISO 42001 §5.3,A,R,R,I,I,C,I,I
+Maintain the risk assessment methodology,ISO 27001 §6.1.2 / ISO 42001 §6.1.2,I,A,C,C,C,I,C,I
+Run the annual risk assessment,ISO 27001 §6.1.2,I,A,R,R,R,C,C,I
+Perform AI system impact assessments,ISO 42001 §6.1.4 / A.5,I,C,A,I,R,C,C,I
+Maintain the risk treatment plan,ISO 27001 §6.1.3,I,A,R,R,R,I,I,I
+Maintain the Statement of Applicability,ISO 27001 §6.1.3 d),I,A,R,C,C,I,C,I
+Set and track security objectives,ISO 27001 §6.2,A,R,R,C,C,I,I,I
+Provide resources and budget,ISO 27001 §7.1,A,R,R,I,I,I,I,I
+Run awareness and competence programme,ISO 27001 §7.2–7.3,I,A,C,I,I,R,I,I
+Control documented information,ISO 27001 §7.5,I,A,R,R,R,I,I,I
+Operate security controls,ISO 27001 §8 / Annex A,I,A,C,R,C,C,I,I
+Operate AI life-cycle controls,ISO 42001 §8 / A.6–A.7,I,C,A,C,R,I,I,I
+Manage suppliers and AI providers,A.5.19–5.22 / ISO 42001 A.10,I,A,R,R,C,I,R,I
+Handle security and AI incidents,A.5.24–5.28 / ISO 42001 A.8.4,I,A,R,R,R,C,C,I
+Monitor and measure performance,ISO 27001 §9.1,I,A,R,R,R,I,I,I
+Conduct internal audits,ISO 27001 §9.2 / ISO 42001 §9.2,I,C,C,I,I,I,I,A
+Run the management review,ISO 27001 §9.3 / ISO 42001 §9.3,A,R,R,C,C,C,C,C
+Manage nonconformities and corrective actions,ISO 27001 §10.2,I,A,R,R,R,I,I,C

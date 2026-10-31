@@ -1,0 +1,94 @@
+domain,control_id,control_title
+Governance,A.5.1,Policies for information security
+Governance,A.5.2,Information security roles and responsibilities
+Governance,A.5.3,Segregation of duties
+Governance,A.5.4,Management responsibilities
+Governance,A.5.5,Contact with authorities
+Governance,A.5.6,Contact with special interest groups
+Governance,A.5.7,Threat intelligence
+Governance,A.5.8,Information security in project management
+Asset management,A.5.9,Inventory of information and other associated assets
+Asset management,A.5.10,Acceptable use of information and other associated assets
+Asset management,A.5.11,Return of assets
+Data protection,A.5.12,Classification of information
+Data protection,A.5.13,Labelling of information
+Data protection,A.5.14,Information transfer
+Access control,A.5.15,Access control
+Access control,A.5.16,Identity management
+Access control,A.5.17,Authentication information
+Access control,A.5.18,Access rights
+Supplier,A.5.19,Information security in supplier relationships
+Supplier,A.5.20,Addressing information security within supplier agreements
+Supplier,A.5.21,Managing information security in the ICT supply chain
+Supplier,A.5.22,"Monitoring, review and change management of supplier services"
+Supplier,A.5.23,Information security for use of cloud services
+Resilience,A.5.24,Information security incident management planning and preparation
+Resilience,A.5.25,Assessment and decision on information security events
+Resilience,A.5.26,Response to information security incidents
+Resilience,A.5.27,Learning from information security incidents
+Resilience,A.5.28,Collection of evidence
+Resilience,A.5.29,Information security during disruption
+Resilience,A.5.30,ICT readiness for business continuity
+Compliance,A.5.31,"Legal, statutory, regulatory and contractual requirements"
+Compliance,A.5.32,Intellectual property rights
+Compliance,A.5.33,Protection of records
+Compliance,A.5.34,Privacy and protection of PII
+Compliance,A.5.35,Independent review of information security
+Compliance,A.5.36,"Compliance with policies, rules and standards for information security"
+Operations,A.5.37,Documented operating procedures
+People,A.6.1,Screening
+People,A.6.2,Terms and conditions of employment
+People,A.6.3,"Information security awareness, education and training"
+People,A.6.4,Disciplinary process
+People,A.6.5,Responsibilities after termination or change of employment
+People,A.6.6,Confidentiality or non-disclosure agreements
+People,A.6.7,Remote working
+People,A.6.8,Information security event reporting
+Physical,A.7.1,Physical security perimeters
+Physical,A.7.2,Physical entry
+Physical,A.7.3,"Securing offices, rooms and facilities"
+Physical,A.7.4,Physical security monitoring
+Physical,A.7.5,Protecting against physical and environmental threats
+Physical,A.7.6,Working in secure areas
+Physical,A.7.7,Clear desk and clear screen
+Physical,A.7.8,Equipment siting and protection
+Physical,A.7.9,Security of assets off-premises
+Physical,A.7.10,Storage media
+Physical,A.7.11,Supporting utilities
+Physical,A.7.12,Cabling security
+Physical,A.7.13,Equipment maintenance
+Physical,A.7.14,Secure disposal or re-use of equipment
+Endpoint,A.8.1,User endpoint devices
+Access control,A.8.2,Privileged access rights
+Access control,A.8.3,Information access restriction
+Access control,A.8.4,Access to source code
+Access control,A.8.5,Secure authentication
+Operations,A.8.6,Capacity management
+Endpoint,A.8.7,Protection against malware
+Vulnerability,A.8.8,Management of technical vulnerabilities
+Operations,A.8.9,Configuration management
+Data protection,A.8.10,Information deletion
+Data protection,A.8.11,Data masking
+Data protection,A.8.12,Data leakage prevention
+Resilience,A.8.13,Information backup
+Resilience,A.8.14,Redundancy of information processing facilities
+Detection,A.8.15,Logging
+Detection,A.8.16,Monitoring activities
+Operations,A.8.17,Clock synchronisation
+Access control,A.8.18,Use of privileged utility programs
+Operations,A.8.19,Installation of software on operational systems
+Network,A.8.20,Networks security
+Network,A.8.21,Security of network services
+Network,A.8.22,Segregation of networks
+Network,A.8.23,Web filtering
+Cryptography,A.8.24,Use of cryptography
+Development,A.8.25,Secure development life cycle
+Development,A.8.26,Application security requirements
+Development,A.8.27,Secure system architecture and engineering principles
+Development,A.8.28,Secure coding
+Development,A.8.29,Security testing in development and acceptance
+Development,A.8.30,Outsourced development
+Development,A.8.31,"Separation of development, test and production environments"
+Development,A.8.32,Change management
+Development,A.8.33,Test information
+Operations,A.8.34,Protection of information systems during audit testing
