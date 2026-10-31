@@ -64,7 +64,7 @@ def read_csv(name: str) -> list[dict[str, str]]:
 
 def write_csv(name: str, header: list[str], rows: list[list[str]]) -> None:
     with (OUT / name).open("w", encoding="utf-8", newline="") as f:
-        w = csv.writer(f)
+        w = csv.writer(f, lineterminator="\n")
         w.writerow(header)
         w.writerows(rows)
 
